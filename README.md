@@ -20,7 +20,7 @@ At the group level, LVMH and competitor sentiment is almost identical: **0.48 vs
 
 ### The Visibility Problem
 
-Rolex has **201 mentions** on Reddit. The most-discussed LVMH brand? Dior, with 27. TAG Heuer has 15. Bulgari has 9. LVMH doesn't have a perception problem — it has an **awareness problem**. Their brands aren't being discussed enough for sentiment to even matter at scale.
+Rolex has **201 mentions** on Reddit. The most-discussed LVMH brand? Dior, with 27. TAG Heuer has 15. Bulgari has 9. LVMH doesn't have a perception problem it has an **awareness problem**. Their brands aren't being discussed enough for sentiment to even matter at scale.
 
 Meanwhile, Rolex (201 mentions), Cartier (72 mentions), and Omega (62) completely own the luxury conversation on Reddit. These are all competitor brands.
 
