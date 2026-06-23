@@ -12,25 +12,25 @@ That's the question I set out to answer. I scraped 640 Reddit mentions across 7 
 
 ## The Story
 
-I started this project thinking I'd find a clear gap between LVMH and its competitors in consumer sentiment. LVMH is the world's largest luxury conglomerate — surely their brands would dominate the conversation, right?
+I started this project thinking I'd find a clear gap between LVMH and its competitors in consumer sentiment. LVMH is the world's largest luxury conglomerate surely their brands would dominate the conversation, right?
 
 They don't.
 
-At the group level, LVMH and competitor sentiment is almost identical: **0.48 vs. 0.49**. If I'd stopped there, this would've been a boring project. But when I broke it down by individual brand, the real story came out — and it's one of visibility, not sentiment.
+At the group level, LVMH and competitor sentiment is almost identical: **0.48 vs. 0.49**. If I'd stopped there, this would've been a boring project. But when I broke it down by individual brand, the real story came out, and it's one of visibility, not sentiment.
 
 ### The Visibility Problem
 
 Rolex has **201 mentions** on Reddit. The most-discussed LVMH brand? Dior, with 27. TAG Heuer has 15. Bulgari has 9. LVMH doesn't have a perception problem — it has an **awareness problem**. Their brands aren't being discussed enough for sentiment to even matter at scale.
 
-Meanwhile, Rolex, Cartier (72 mentions), and Omega (62) completely own the luxury conversation on Reddit. These are all competitor brands.
+Meanwhile, Rolex (201 mentions), Cartier (72 mentions), and Omega (62) completely own the luxury conversation on Reddit. These are all competitor brands.
 
 ### The Hublot Paradox
 
-Here's where it gets interesting. Hublot has the **highest average engagement** of any brand — 2,500 upvotes per mention. But its sentiment score is just 0.31, one of the lowest. People aren't upvoting Hublot because they love it. They're upvoting because the posts are controversial — pricing debates, design criticism, "is Hublot even luxury?" threads. High engagement + negative sentiment = a brand that generates conversation for the wrong reasons.
+Here's where it gets interesting. Hublot has the **highest average engagement** of any brand — 2,500 upvotes per mention. But its sentiment score is just 0.31, one of the lowest. People aren't upvoting Hublot because they love it. They're upvoting because the posts are controversial pricing debates, design criticism, "is Hublot even luxury?" threads. High engagement + negative sentiment = a brand that generates conversation for the wrong reasons.
 
 ### The Quiet Winners
 
-On the flip side, TAG Heuer (0.68 sentiment) and Bulgari (0.65) are LVMH's strongest brands by perception — people who talk about them talk positively. But with only 15 and 9 mentions respectively, almost nobody is talking. These brands have the sentiment — they just need the volume.
+On the flip side, TAG Heuer (0.68 sentiment) and Bulgari (0.65) are LVMH's strongest brands by perception people who talk about them talk positively. But with only 15 and 9 mentions respectively, almost nobody is talking. These brands have the sentiment they just need the volume.
 
 ### Where It Gets Strategic
 
