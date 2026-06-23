@@ -26,7 +26,7 @@ Meanwhile, Rolex (201 mentions), Cartier (72 mentions), and Omega (62) completel
 
 ### The Hublot Paradox
 
-Here's where it gets interesting. Hublot has the **highest average engagement** of any brand — 2,500 upvotes per mention. But its sentiment score is just 0.31, one of the lowest. People aren't upvoting Hublot because they love it. They're upvoting because the posts are controversial pricing debates, design criticism, "is Hublot even luxury?" threads. High engagement + negative sentiment = a brand that generates conversation for the wrong reasons.
+Here's where it gets interesting. Hublot has the **highest average engagement** of any brand 2,557 upvotes per mention. But its sentiment score is just 0.31, one of the lowest. People aren't upvoting Hublot because they love it. They're upvoting because the posts are controversial pricing debates, design criticism, "is Hublot even luxury?" threads. High engagement + negative sentiment = a brand that generates conversation for the wrong reasons.
 
 ### The Quiet Winners
 
