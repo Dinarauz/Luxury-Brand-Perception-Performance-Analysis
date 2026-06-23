@@ -4,7 +4,7 @@
 
 That's the question I set out to answer. I scraped 640 Reddit mentions across 7 communities, ran NLP sentiment analysis on all of them, then layered in financial data from LVMH, Kering, and Richemont annual reports to see if perception and performance are connected.
 
-**Spoiler: they are — just not in the way I expected.**
+**Spoiler: they are just not in the way I expected.**
 
 [View the Interactive Dashboard →](https://datastudio.google.com/reporting/e4a08aca-2d2c-47a4-b6bc-8a7296d11c63)
 
