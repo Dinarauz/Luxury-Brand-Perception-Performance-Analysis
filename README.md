@@ -36,14 +36,14 @@ On the flip side, TAG Heuer (0.68 sentiment) and Bulgari (0.65) are LVMH's stron
 
 When I layered in financial data, the connection became clearer. Gucci maintained a 91% DTC share from 2021 through 2024. By the traditional playbook, that should protect the brand. But revenue dropped from €10.5B to €7.7B anyway, and operating margins slid from 38.2% to 33.1% (and below reporting threshold in 2024). High DTC share didn't save Gucci from declining brand perception.
 
-Compare that with Richemont — Cartier's parent — which grew DTC share from 55% to 71% over the same period while maintaining 33% operating margins. Cartier also scores 0.56 in sentiment with 72 mentions. The brands winning on perception are also winning on performance.
+Compare that with Richemont Cartier's parent which grew DTC share from 55% to 71% over the same period while maintaining 33% operating margins. Cartier also scores 0.56 in sentiment with 72 mentions. The brands winning on perception are also winning on performance.
 
 ---
 
 ## What I Built
 
 ### Data Collection (Python)
-Scraped Reddit's public JSON endpoints — no API key needed. Pulled posts and comments from r/Watches, r/luxury, r/fashion, r/femalefashionadvice, r/malefashionadvice, r/LuxuryLifeHabits, and r/Jewellery. Each post was matched against brand-specific keyword lists (catching both "Bulgari" and "Bvlgari," for example). The scraping script handles rate limiting, pagination, and comment threading automatically.
+Scraped Reddit's public JSON endpoints no API key needed :) Pulled posts and comments from r/Watches, r/luxury, r/fashion, r/femalefashionadvice, r/malefashionadvice, r/LuxuryLifeHabits, and r/Jewellery. Each post was matched against brand-specific keyword lists (catching both "Bulgari" and "Bvlgari," for example). The scraping script handles rate limiting, pagination, and comment threading automatically.
 
 ### Sentiment Analysis (VADER)
 Ran every mention through VADER, a sentiment model built for social media text. It understands that "AMAZING" scores higher than "amazing" and "great!!!" beats "great." Each mention got a score from -1 to +1, then I classified them as Positive (≥0.05), Negative (≤-0.05), or Neutral.
@@ -55,10 +55,8 @@ Pulled revenue, channel mix, and margin data from:
 - **LVMH** annual results — total revenue trends
 - **Bain-Altagamma** Luxury Reports — industry benchmarks (€364B market in 2024, margins compressing from 23% peak to 15-16%)
 
-Having studied these companies through my Bocconi/LVMH certifications, I already knew where to find the data and what metrics matter — which saved significant time in the collection phase.
-
 ### SQL Analysis (BigQuery)
-Wrote 25+ queries covering everything from basic sentiment rankings to LAG window functions for YoY growth calculations to LEFT JOINs connecting sentiment data with financial performance. The most revealing query was the brand-level join — mapping each brand's Reddit sentiment against its actual revenue and operating margin.
+Wrote 25+ queries covering everything from basic sentiment rankings to LAG window functions for YoY growth calculations to LEFT JOINs connecting sentiment data with financial performance. The most revealing query was the brand-level join mapping each brand's Reddit sentiment against its actual revenue and operating margin.
 
 ### Dashboard (Looker Studio — 5 Pages)
 
