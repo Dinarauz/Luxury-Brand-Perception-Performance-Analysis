@@ -34,7 +34,7 @@ On the flip side, TAG Heuer (0.68 sentiment) and Bulgari (0.65) are LVMH's stron
 
 ### Where It Gets Strategic
 
-When I layered in financial data, the connection became clearer. Gucci maintained a 91% DTC share from 2021 through 2024. By the traditional playbook, that should protect the brand. But revenue dropped from €10.5B to €7.7B anyway, and operating margins slid from 38.2% to 33.1% (and below reporting threshold in 2024). High DTC share didn't save Gucci from declining brand perception.
+When I layered in financial data, the connection became clearer. Gucci maintained a 91% DTC share from 2021 through 2024. By the traditional playbook, that should protect the brand. But revenue dropped from €9.7 B to €7.7B anyway, and operating margins slid from 38.2% to 33.1% (and below reporting threshold in 2024). High DTC share didn't save Gucci from declining brand perception.
 
 Compare that with Richemont Cartier's parent which grew DTC share from 55% to 71% over the same period while maintaining 33% operating margins. Cartier also scores 0.56 in sentiment with 72 mentions. The brands winning on perception are also winning on performance.
 
