@@ -64,10 +64,10 @@ Wrote 25+ queries covering everything from basic sentiment rankings to LAG windo
 ### Dashboard (Looker Studio — 5 Pages)
 
 **Page 1: Which Luxury Brands Win Hearts Online?**
-The overview. Scorecards set the context (640 mentions, 17 brands, 0.48 vs 0.49 group sentiment). The combo chart below is the most important visual in the whole dashboard — it ranks every brand by sentiment score while overlaying mention volume, so you can immediately see that Bottega Veneta tops sentiment at 0.79 but only has 6 mentions, while Rolex sits mid-pack at 0.50 but has 201.
+The overview. Scorecards set the context (640 mentions, 17 brands, 0.48 vs 0.49 group sentiment). The combo chart below is the most important visual in the whole dashboard it ranks every brand by sentiment score while overlaying mention volume, so you can immediately see that Bottega Veneta tops sentiment at 0.79 but only has 6 mentions, while Rolex sits mid-pack at 0.50 but has 201.
 
 **Page 2: LVMH's Visibility Challenge**
-This is the strategic page. The data table sorted by mentions makes it painfully clear — the top 7 most-discussed brands are all competitors. Dior is the first LVMH brand to appear at #8. The stacked sentiment bars show that when LVMH brands ARE discussed, the sentiment distribution is actually comparable to competitors. The problem isn't what people say — it's that they're not saying enough.
+This is the strategic page. The data table sorted by mentions makes it painfully clear. The top 7 most-discussed brands are all competitors. Dior is the first LVMH brand to appear at #8. The stacked sentiment bars show that when LVMH brands ARE discussed, the sentiment distribution is actually comparable to competitors. The problem isn't what people say it's that they're not saying enough.
 
 **Page 3: Community Deep Dive**
 A heatmap table breaking down every brand by subreddit with conditional formatting on sentiment and upvotes. The key insight: r/Watches drives 389 of 640 mentions, which explains why watch brands dominate the analysis. The interactive filters let you drill into any brand × subreddit combination.
@@ -76,7 +76,7 @@ A heatmap table breaking down every brand by subreddit with conditional formatti
 Financial context. The revenue trend line shows LVMH at €84.7B dwarfing Kering (€17.2B) and Richemont (€20.6B), but Kering's decline is steeper. The Richemont DTC shift chart shows DTC Boutiques growing while Wholesale shrinks. The Gucci table tells the cautionary tale — 91% DTC and still declining.
 
 **Page 5: Strategic Recommendations**
-The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-axis) with bubble size for volume creates four natural quadrants. Hublot sits alone in "Controversial" (top-left). Fendi sits in "At Risk" (bottom-left). TAG Heuer and Bulgari are "Loved but Quiet" (bottom-right). Rolex, Omega, and Cartier are "Strong & Visible" (top-right). The recommendations write themselves from this chart.
+The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-axis) with bubble size for volume creates four natural quadrants. Hublot sits alone in "Controversial" (top-left). Fendi sits in "At Risk" (bottom-left). TAG Heuer and Bulgari are "Loved but Quiet" (bottom-right). Rolex, Omega, and Cartier are "Strong & Visible" (top-right). 
 
 ---
 
@@ -86,11 +86,11 @@ The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-a
 
 2. **Hublot** generates conversation but it's the wrong kind. The brand needs to understand what's driving criticism (pricing perception? design polarization?) and address it through targeted communication.
 
-3. **Fendi** has both low visibility and low sentiment. This is a repositioning challenge in digital communities — the brand needs to build positive associations from the ground up.
+3. **Fendi** has both low visibility and low sentiment. This is a repositioning challenge in digital communities. The brand needs to build positive associations from the ground up.
 
 4. **Rolex** is the model. Sustained community presence builds both volume and positive perception over time. LVMH watch brands should study this playbook.
 
-5. **Channel strategy isn't enough.** Gucci proves that 91% DTC share doesn't protect against declining brand perception. Richemont (Cartier) shows that combining DTC growth with strong sentiment correlates with 33% operating margins — vs. Gucci's declining margins.
+5. **Channel strategy isn't enough.** Gucci proves that 91% DTC share doesn't protect against declining brand perception. Richemont (Cartier) shows that combining DTC growth with strong sentiment correlates with 33% operating margins vs. Gucci's declining margins.
 
 ---
 
@@ -132,9 +132,9 @@ The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-a
 
 ## Limitations & What I'd Do Next
 
-**Honest limitations:** Reddit skews toward watch enthusiasts and male-dominated communities — fashion brands are underrepresented. VADER is a solid starting point for sentiment but misses sarcasm and luxury-specific nuance ("understated" reads as neutral when it's actually a compliment in luxury). And LVMH doesn't publish channel-level data, so direct DTC comparisons across all three groups aren't possible.
+**Honest limitations:** Reddit skews toward watch enthusiasts and male-dominated communities, fashion brands are underrepresented. VADER is a solid starting point for sentiment but misses sarcasm and luxury-specific nuance ("understated" reads as neutral when it's actually a compliment in luxury). And LVMH doesn't publish channel-level data, so direct DTC comparisons across all three groups aren't possible.
 
-**If I had more time:**
+**Next Steps:**
 - Pull from Instagram, TikTok, and Xiaohongshu (RED) to capture the demographics Reddit misses
 - Fine-tune a RoBERTa model on luxury-specific text for better sentiment accuracy
 - Add Google Trends data to see if search interest correlates with Reddit sentiment
@@ -147,10 +147,8 @@ The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-a
 
 **Dinara Ibotova**
 
-BBA in Data Analytics — Baruch College, Zicklin School of Business (GPA 3.7, May 2025)
-
 Currently working as a Supply Chain Associate on the D2C Operational Excellence team at L'Oréal USA, where I build Power BI dashboards and manage O+O KPI tracking — so the DTC vs. wholesale analysis in this project comes from a place of hands-on experience, not just theory.
 
-Certifications: Google Data Analytics | Bocconi/LVMH Fashion & Luxury Management | Bocconi/LVMH Operations & Supply Chain | Bocconi/LVMH Retail & Customer Experience | 17+ DataCamp Certificates
+Certifications: Google Data Analytics | Bocconi/LVMH Fashion & Luxury Management | LVMH Operations & Supply Chain | 17+ DataCamp Certificates
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/Dinarauz)
+[LinkedIn](www.linkedin.com/in/dinara-ibotova-a34661265) | [GitHub](https://github.com/Dinarauz)
