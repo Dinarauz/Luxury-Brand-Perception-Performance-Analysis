@@ -143,12 +143,6 @@ The scatter chart is my signature visual. Sentiment (x-axis) vs. engagement (y-a
 
 ---
 
-## About Me
-
 **Dinara Ibotova**
-
-Currently working as a Supply Chain Associate on the D2C Operational Excellence team at L'Oréal USA, where I build Power BI dashboards and manage O+O KPI tracking — so the DTC vs. wholesale analysis in this project comes from a place of hands-on experience, not just theory.
-
-Certifications: Google Data Analytics | Bocconi/LVMH Fashion & Luxury Management | LVMH Operations & Supply Chain | 17+ DataCamp Certificates
 
 [LinkedIn](www.linkedin.com/in/dinara-ibotova-a34661265) | [GitHub](https://github.com/Dinarauz)
