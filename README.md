@@ -1,5 +1,6 @@
 # Luxury-Brand-Perception-Performance-Analysis
-<img width="1536" height="1024" alt="ChatGPT Image Jun 23, 2026 at 04_43_21 PM" src="https://github.com/user-attachments/assets/7d0f775e-dea9-4dd3-8c1d-8433b0f7d89e" />
+<img width="1536" height="1024" alt="ChatGPT Image Jun 23, 2026 at 04_46_53 PM" src="https://github.com/user-attachments/assets/98319069-308b-45e8-98ac-57bd5d92fe02" />
+
 
 **Do consumers actually feel differently about LVMH brands vs. their competitors? And if so, does it show up in the financials?**
 
