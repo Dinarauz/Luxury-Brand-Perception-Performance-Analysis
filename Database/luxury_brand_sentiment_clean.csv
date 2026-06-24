@@ -1,0 +1,641 @@
+brand,brand_group,category,subreddit,score,num_comments,date,sentiment_score,sentiment_label,type
+Cartier,Competitor,Watches & Jewelry,Watches,8363,268,2025-07-13,0.819,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,6460,232,2026-01-22,0.8399,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,6002,156,2025-07-31,0.9113,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,4544,347,2025-07-08,0.9153,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,4494,559,2025-11-21,0.8999,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,4494,559,2025-11-21,0.8999,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,3949,212,2026-03-03,0.9419,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3822,1122,2025-07-11,0.668,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3815,146,2025-08-03,0.6868,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3208,162,2025-06-12,0.907,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3152,181,2025-08-26,0.9371,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3038,399,2025-06-18,0.9274,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2747,157,2025-08-16,0.503,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,2747,157,2025-08-16,0.503,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2569,86,2026-02-14,-0.3071,Negative,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2569,86,2026-02-14,-0.3071,Negative,post
+Cartier,Competitor,Watches & Jewelry,Watches,2543,511,2026-03-06,0.1431,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,2525,717,2025-06-29,0.5187,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2525,717,2025-06-29,0.5187,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2436,262,2025-05-10,0.8762,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,2436,262,2025-05-10,0.8762,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2434,364,2026-02-27,0.9011,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2434,364,2026-02-27,0.9011,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2389,342,2025-11-29,0.8555,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2213,466,2025-10-12,0.4588,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,2213,466,2025-10-12,0.4588,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2213,466,2025-10-12,0.4588,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,2213,466,2025-10-12,0.4588,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2122,307,2025-12-21,0.8663,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2112,262,2025-06-07,0.6652,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,2112,262,2025-06-07,0.6652,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2077,130,2025-09-11,0.9139,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2054,526,2025-10-13,0.8856,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,2051,310,2025-07-09,0.8951,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2051,310,2025-07-09,0.8951,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2025,120,2025-07-10,0.7003,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2013,215,2025-06-01,0.5498,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2013,215,2025-06-01,0.5498,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,113,0,2025-08-08,-0.4588,Negative,comment
+Cartier,Competitor,Watches & Jewelry,Watches,991,0,2025-07-13,0.7845,Positive,comment
+Hermes,Competitor,Fashion,Watches,7,0,2025-07-13,0.624,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1962,97,2025-06-04,0.958,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,1889,301,2025-06-04,0.838,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,1876,325,2026-02-09,0.9253,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1844,402,2026-03-26,-0.6865,Negative,post
+Cartier,Competitor,Watches & Jewelry,Watches,1825,278,2025-10-04,0.1207,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1787,198,2026-02-26,0.9007,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1786,153,2025-08-25,0.7709,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,1786,153,2025-08-25,0.7709,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1759,793,2025-05-24,0.8338,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1759,793,2025-05-24,0.8338,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1752,68,2025-06-10,-0.0935,Negative,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1718,466,2025-09-07,0.9732,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,1718,466,2025-09-07,0.9732,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1720,69,2025-09-13,0.6124,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1705,130,2026-01-21,0.7783,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1684,136,2026-03-05,0.7338,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1674,256,2025-10-21,0.8553,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,1674,256,2025-10-21,0.8553,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1627,364,2025-08-03,0.6369,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1582,660,2025-05-20,0.9026,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,1574,106,2025-07-02,0.8746,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1535,201,2025-06-05,0.0,Neutral,post
+Cartier,Competitor,Watches & Jewelry,Watches,1535,201,2025-06-05,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,1503,156,2025-09-02,0.9807,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,1463,104,2025-06-13,0.7214,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1454,132,2026-03-03,-0.4019,Negative,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1442,95,2025-08-28,0.9199,Positive,post
+Chanel,Competitor,Fashion,Watches,120,0,2026-04-09,0.3382,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1408,89,2025-05-22,0.8056,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1393,348,2025-06-22,0.4588,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1383,317,2026-03-20,0.885,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1377,146,2025-05-31,0.7735,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1350,290,2026-02-16,0.9616,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1338,159,2026-01-31,0.8658,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1338,159,2026-01-31,0.8658,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1284,80,2025-08-30,0.6524,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1284,80,2025-08-30,0.6524,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1284,234,2025-07-16,0.4391,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1269,190,2025-07-14,-0.8344,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,1271,86,2026-03-10,0.9657,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1263,342,2026-03-15,0.7351,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1254,299,2025-08-20,0.296,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1246,59,2025-08-25,-0.3578,Negative,post
+Omega,Competitor,Watches & Jewelry,Watches,1238,94,2026-03-28,-0.2846,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,1240,339,2025-07-16,0.9451,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1232,50,2025-06-06,0.8718,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1215,91,2026-04-18,-0.0878,Negative,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1212,226,2025-10-12,0.5922,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,1203,72,2025-09-18,0.8992,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,1210,138,2025-06-01,0.9214,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1210,138,2025-06-01,0.9214,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1210,138,2025-06-01,0.9214,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1190,42,2025-10-31,0.0254,Neutral,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1175,117,2025-10-20,0.9169,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1169,203,2026-02-26,0.7506,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1169,203,2026-02-26,0.7506,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,1169,203,2026-02-26,0.7506,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1164,139,2026-01-05,-0.0041,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,17,0,2025-06-12,0.9947,Positive,comment
+Patek Philippe,Competitor,Watches & Jewelry,Watches,17,0,2025-06-12,0.9947,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,6,0,2025-05-22,0.8024,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,4,0,2025-05-22,0.7504,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1013,82,2026-04-15,0.9586,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,1013,82,2026-04-15,0.9586,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,1007,50,2026-03-25,0.9643,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,948,677,2026-03-26,0.9142,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,912,129,2026-04-18,0.6124,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,736,813,2026-04-18,0.9539,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,736,813,2026-04-18,0.9539,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,716,77,2026-04-12,0.9524,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,642,121,2026-04-11,0.6124,Positive,post
+Hublot,LVMH,Watches & Jewelry,Watches,642,121,2026-04-11,0.6124,Positive,post
+Tiffany,LVMH,Fashion,Watches,642,121,2026-04-11,0.6124,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,642,121,2026-04-11,0.6124,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,642,121,2026-04-11,0.6124,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,642,121,2026-04-11,0.6124,Positive,post
+Gucci,Competitor,Fashion,Watches,642,121,2026-04-11,0.6124,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,634,38,2026-04-22,0.5173,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,593,358,2026-04-06,0.8507,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,563,367,2026-04-21,-0.2543,Negative,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,529,161,2026-04-09,0.9393,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,523,225,2026-04-17,0.8596,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,523,225,2026-04-17,0.8596,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,523,225,2026-04-17,0.8596,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,493,48,2026-04-14,0.8573,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,493,48,2026-04-14,0.8573,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,479,189,2026-04-22,0.1901,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,479,189,2026-04-22,0.1901,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,479,189,2026-04-22,0.1901,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,479,189,2026-04-22,0.1901,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,455,123,2026-04-10,0.0,Neutral,post
+Omega,Competitor,Watches & Jewelry,Watches,455,123,2026-04-10,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,435,60,2026-03-31,0.3612,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,437,73,2026-04-10,0.8868,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,435,120,2026-04-18,0.7876,Positive,post
+Bulgari,LVMH,Watches & Jewelry,Watches,432,37,2026-04-13,0.4767,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,426,62,2026-04-14,-0.2569,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,426,66,2026-04-20,0.6124,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,426,66,2026-04-20,0.6124,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,426,66,2026-04-20,0.6124,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,64,0,2026-04-02,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,10,0,2026-04-15,0.7269,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,398,37,2026-03-31,0.8621,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,398,37,2026-03-31,0.8621,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,396,77,2026-04-14,0.8919,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,403,142,2026-03-28,0.8097,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,403,142,2026-03-28,0.8097,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,348,63,2026-04-10,0.9358,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,345,51,2026-04-04,0.9442,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,335,50,2026-04-17,0.836,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,335,50,2026-04-17,0.836,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,326,39,2026-04-16,0.5935,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,317,52,2026-04-05,0.926,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,317,52,2026-04-05,0.926,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,317,52,2026-04-05,0.926,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,313,32,2026-04-08,0.6318,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,315,86,2026-03-31,0.504,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,301,72,2026-04-12,0.0516,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,289,253,2026-04-14,0.3824,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,289,253,2026-04-14,0.3824,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,274,67,2026-04-13,0.7506,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,273,327,2026-04-21,0.9148,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,277,61,2026-04-06,0.9422,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,272,45,2026-04-20,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,273,85,2026-04-18,0.8955,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,273,85,2026-04-18,0.8955,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,273,85,2026-04-18,0.8955,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,266,49,2026-03-25,0.8397,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,262,23,2026-04-17,0.8822,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,259,160,2026-04-04,0.8744,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,259,83,2026-04-19,0.9537,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,252,173,2026-04-08,-0.3742,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,254,41,2026-03-25,0.9231,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,234,56,2026-04-19,0.4404,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,234,56,2026-04-19,0.4404,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,232,9,2026-04-11,0.9513,Positive,post
+Bulgari,LVMH,Watches & Jewelry,Watches,229,18,2026-04-21,0.8251,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,66,0,2026-03-28,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,221,389,2026-04-17,0.6808,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,219,159,2026-03-24,-0.357,Negative,post
+Cartier,Competitor,Watches & Jewelry,Watches,218,58,2026-04-07,0.7757,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,216,81,2026-03-31,0.8841,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,204,9,2026-04-05,0.7783,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,204,214,2026-04-14,0.8079,Positive,post
+Hermes,Competitor,Fashion,Watches,203,47,2026-04-22,-0.7424,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,195,49,2026-04-03,0.9509,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,195,49,2026-04-03,0.9509,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,189,34,2026-04-22,0.6435,Positive,post
+Chanel,Competitor,Fashion,Watches,189,34,2026-04-22,0.6435,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,178,113,2026-04-05,0.8832,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,178,113,2026-04-05,0.8832,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,178,113,2026-04-05,0.8832,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,177,17,2026-04-19,0.955,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,174,459,2026-04-13,0.95,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,174,459,2026-04-13,0.95,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,175,33,2026-04-16,0.7942,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,170,43,2026-04-12,0.9769,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,170,43,2026-04-12,0.9769,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,170,43,2026-04-12,0.9769,Positive,post
+Hermes,Competitor,Fashion,Watches,170,43,2026-04-12,0.9769,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,165,13,2026-04-21,0.9125,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,160,20,2026-04-19,0.8618,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,159,49,2026-04-16,0.8418,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,164,23,2026-03-27,0.25,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,158,136,2026-04-07,-0.2197,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,157,8,2026-04-12,0.9055,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,152,30,2026-04-22,0.8735,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,153,36,2026-04-20,0.9336,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,154,23,2026-04-21,0.6908,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,152,14,2026-04-12,0.3612,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,151,52,2026-04-07,0.9707,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,151,52,2026-04-07,0.9707,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,145,140,2026-04-06,0.6369,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,145,140,2026-04-06,0.6369,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,138,20,2026-04-17,0.8832,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,24351,235,2017-10-24,0.296,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,14571,375,2017-10-17,0.296,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,12817,303,2020-12-15,0.3336,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,12384,138,2021-04-23,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,11852,409,2017-01-19,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,11249,215,2021-04-05,0.128,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,10815,189,2019-05-27,-0.7102,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,10755,995,2021-07-09,-0.0425,Neutral,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,9131,259,2017-07-01,0.0,Neutral,post
+Omega,Competitor,Watches & Jewelry,Watches,7487,549,2021-08-21,0.2732,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,6671,170,2020-01-25,0.5719,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,6644,254,2019-07-07,-0.5719,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,6281,214,2023-03-27,0.0,Neutral,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,5804,226,2021-02-18,0.0,Neutral,post
+Omega,Competitor,Watches & Jewelry,Watches,5773,174,2018-06-13,0.4588,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,5132,336,2024-08-02,0.7155,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,5112,215,2019-08-12,-0.1027,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,4982,126,2018-04-08,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,4933,267,2018-12-20,0.4926,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,4746,698,2023-03-30,0.6357,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,4734,195,2020-04-29,0.4404,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1444,0,2017-10-24,0.234,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,53,0,2017-10-24,0.4588,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,53,0,2017-10-24,0.4588,Positive,comment
+Omega,Competitor,Watches & Jewelry,Watches,16,0,2017-10-24,-0.1058,Negative,comment
+Cartier,Competitor,Watches & Jewelry,Watches,5518,0,2017-12-10,0.5267,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,272,0,2017-12-10,0.8542,Positive,comment
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,272,0,2017-12-10,0.8542,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,367,0,2017-12-10,0.0,Neutral,comment
+Omega,Competitor,Watches & Jewelry,Watches,367,0,2017-12-10,0.0,Neutral,comment
+Patek Philippe,Competitor,Watches & Jewelry,Watches,367,0,2017-12-10,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,80,0,2017-12-10,-0.7177,Negative,comment
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,57,0,2017-12-10,0.3182,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,511,0,2017-03-24,0.8116,Positive,comment
+Gucci,Competitor,Fashion,Watches,511,0,2017-03-24,0.8116,Positive,comment
+Patek Philippe,Competitor,Watches & Jewelry,Watches,66,0,2017-03-24,-0.4234,Negative,comment
+TAG Heuer,LVMH,Watches & Jewelry,Watches,518,0,2017-01-16,0.4214,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,518,0,2017-01-16,0.4214,Positive,comment
+Omega,Competitor,Watches & Jewelry,Watches,518,0,2017-01-16,0.4214,Positive,comment
+Patek Philippe,Competitor,Watches & Jewelry,Watches,518,0,2017-01-16,0.4214,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,4513,116,2019-03-02,-0.0258,Neutral,post
+Hublot,LVMH,Watches & Jewelry,Watches,4472,295,2019-11-03,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,4453,189,2019-07-21,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,4397,101,2018-04-24,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,4178,110,2020-03-15,0.7777,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,4113,210,2018-06-07,0.4215,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,4031,95,2020-05-04,0.4404,Positive,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,3997,137,2021-05-06,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3908,179,2024-11-17,0.7777,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3773,458,2023-01-31,0.7269,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3686,422,2019-08-25,0.0,Neutral,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,3686,422,2019-08-25,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3636,235,2020-07-07,0.8891,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3614,521,2024-08-31,0.9476,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3611,280,2021-10-27,0.2263,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,3600,467,2024-09-18,0.6597,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1312,0,2026-01-19,0.5499,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1119,0,2026-01-19,0.3612,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,31,0,2026-01-19,0.9062,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,17,0,2026-01-19,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,6,0,2019-02-10,0.5905,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,3532,68,2018-11-13,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3532,244,2023-03-06,0.3291,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,3410,126,2020-07-23,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3400,105,2019-07-31,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3399,319,2019-06-07,0.0,Neutral,post
+Audemars Piguet,Competitor,Watches & Jewelry,Watches,3332,121,2021-04-02,0.0,Neutral,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,3319,104,2022-01-01,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3264,328,2018-02-06,0.5719,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3260,236,2019-10-18,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3253,129,2023-04-19,0.0,Neutral,post
+Tiffany,LVMH,Fashion,Watches,3188,148,2021-12-20,0.4926,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,3189,174,2021-12-17,0.7579,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3188,49,2020-04-04,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,3170,91,2022-03-25,0.0,Neutral,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,3159,127,2019-08-09,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,564,0,2021-04-22,0.5849,Positive,comment
+Omega,Competitor,Watches & Jewelry,Watches,611,0,2025-08-22,0.9136,Positive,comment
+Omega,Competitor,Watches & Jewelry,Watches,253,0,2025-08-22,-0.2732,Negative,comment
+Omega,Competitor,Watches & Jewelry,Watches,17,0,2025-08-22,0.0,Neutral,comment
+Omega,Competitor,Watches & Jewelry,Watches,3,0,2025-08-22,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,63,6,2026-04-23,-0.296,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,18,8,2026-04-23,0.8909,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,6,4,2026-04-23,0.34,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,32,0,2026-04-23,0.9738,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,85,18,2026-04-22,0.8121,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,122,19,2026-04-22,0.6871,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,62,7,2026-04-22,0.8431,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2,2,2026-04-23,-0.296,Negative,post
+Cartier,Competitor,Watches & Jewelry,Watches,0,0,2026-04-23,0.8959,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,0,9,2026-04-23,0.6679,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,0,9,2026-04-23,0.6679,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1,6,2026-04-23,0.2023,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,1,5,2026-04-23,0.7239,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,1,5,2026-04-23,0.7239,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,2,1,2026-04-23,0.8357,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,10,0,2026-04-22,0.7351,Positive,comment
+Patek Philippe,Competitor,Watches & Jewelry,Watches,191,0,2026-04-23,-0.4201,Negative,comment
+Rolex,Competitor,Watches & Jewelry,Watches,20,0,2026-04-23,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,0,4,2026-04-23,0.9517,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,0,4,2026-04-23,0.9517,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,3,5,2026-04-23,0.0,Neutral,post
+Omega,Competitor,Watches & Jewelry,Watches,1,4,2026-04-23,0.9018,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,7,0,2026-04-22,0.9734,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,27,19,2026-04-22,0.4588,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,27,19,2026-04-22,0.4588,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,27,19,2026-04-22,0.4588,Positive,post
+Hermes,Competitor,Fashion,Watches,27,19,2026-04-22,0.4588,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,29,15,2026-04-22,-0.3246,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,29,45,2026-04-22,0.9039,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,29,45,2026-04-22,0.9039,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2,4,2026-04-22,0.946,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,0,7,2026-04-22,-0.7269,Negative,post
+Rolex,Competitor,Watches & Jewelry,Watches,11,4,2026-04-22,0.9209,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,10,0,2026-04-22,0.4678,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,6,0,2026-04-22,0.6068,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,101,0,2026-04-22,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,14,0,2026-04-22,0.1635,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,3,0,2026-04-21,0.826,Positive,comment
+Hermes,Competitor,Fashion,Watches,146,0,2026-04-22,0.0,Neutral,comment
+Hermes,Competitor,Fashion,Watches,32,0,2026-04-22,0.0,Neutral,comment
+Hermes,Competitor,Fashion,Watches,4,0,2026-04-22,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,53,33,2026-04-21,0.9159,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,12,13,2026-04-22,0.8126,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,12,13,2026-04-22,0.8126,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,12,13,2026-04-22,0.8126,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,50,21,2026-04-21,0.5411,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,50,21,2026-04-21,0.5411,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,34,60,2026-04-21,0.974,Positive,post
+Bulgari,LVMH,Watches & Jewelry,Watches,6,3,2026-04-22,0.936,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2,12,2026-04-22,0.3939,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,141,64,2026-04-21,0.8396,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,3,3,2026-04-22,0.8638,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,1,21,2026-04-22,0.7455,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,31,32,2026-04-21,0.9118,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,31,32,2026-04-21,0.9118,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,0,17,2026-04-22,0.8117,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,0,17,2026-04-22,0.8117,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,70,22,2026-04-21,0.8076,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,10,8,2026-04-21,0.766,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,5,68,2026-04-21,0.9022,Positive,post
+Omega,Competitor,Watches & Jewelry,Watches,25,6,2026-04-21,0.9001,Positive,post
+Bulgari,LVMH,Watches & Jewelry,Watches,18,2,2026-04-21,0.9504,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,18,2,2026-04-21,0.9504,Positive,post
+Cartier,Competitor,Watches & Jewelry,Watches,218,0,2026-04-21,0.96,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,113,0,2026-04-21,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,40,0,2026-04-21,0.198,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,23,0,2026-04-21,0.765,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,9,0,2026-04-21,0.2732,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,6,0,2026-04-21,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,5,0,2026-04-21,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,6,0,2026-04-21,0.3612,Positive,comment
+Cartier,Competitor,Watches & Jewelry,Watches,10,0,2026-04-21,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,5,0,2026-04-21,0.0,Neutral,comment
+Cartier,Competitor,Watches & Jewelry,Watches,3,0,2026-04-21,0.9061,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,2,0,2026-04-21,0.2263,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,3,0,2026-04-21,-0.3895,Negative,comment
+Bulgari,LVMH,Watches & Jewelry,Watches,1,0,2026-04-22,0.9798,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1,0,2026-04-23,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1,0,2026-04-23,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,0,18,2026-04-22,0.6808,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,0,25,2026-04-22,0.8276,Positive,post
+TAG Heuer,LVMH,Watches & Jewelry,Watches,5,0,2026-04-22,0.8765,Positive,comment
+Chanel,Competitor,Fashion,Watches,3,0,2026-04-22,0.5719,Positive,comment
+Chanel,Competitor,Fashion,Watches,1,0,2026-04-23,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,Watches,1,0,2026-04-22,0.936,Positive,comment
+Rolex,Competitor,Watches & Jewelry,Watches,0,0,2026-04-22,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,Watches,0,5,2026-04-22,0.6461,Positive,post
+Gucci,Competitor,Fashion,Watches,1,4,2026-04-21,0.7743,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,2,2,2026-04-21,-0.3506,Negative,post
+Patek Philippe,Competitor,Watches & Jewelry,Watches,2,2,2026-04-21,-0.3506,Negative,post
+Cartier,Competitor,Watches & Jewelry,Watches,1,2,2026-04-21,0.7152,Positive,post
+Rolex,Competitor,Watches & Jewelry,Watches,10,0,2026-04-22,0.5423,Positive,comment
+Hermes,Competitor,Fashion,luxury,75,64,2026-02-23,0.5514,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,69,63,2026-03-26,0.7951,Positive,post
+Dior,LVMH,Fashion,luxury,63,48,2026-03-18,-0.2263,Negative,post
+Louis Vuitton,LVMH,Fashion,luxury,56,61,2026-03-09,-0.7184,Negative,post
+Chanel,Competitor,Fashion,luxury,52,21,2026-03-29,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,52,21,2026-03-29,0.0,Neutral,post
+Fendi,LVMH,Fashion,luxury,43,25,2026-04-11,-0.757,Negative,post
+Chanel,Competitor,Fashion,luxury,31,19,2025-12-17,0.9081,Positive,post
+Chanel,Competitor,Fashion,luxury,36,6,2026-01-20,0.3612,Positive,post
+Hermes,Competitor,Fashion,luxury,34,1,2025-07-17,0.5574,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,29,2,2026-02-02,0.9117,Positive,post
+Gucci,Competitor,Fashion,luxury,25,49,2025-10-02,-0.5362,Negative,post
+Hermes,Competitor,Fashion,luxury,2,0,2025-11-18,0.9006,Positive,comment
+Chanel,Competitor,Fashion,luxury,131,0,2025-09-28,-0.3612,Negative,comment
+Chanel,Competitor,Fashion,luxury,4,0,2025-09-28,0.2144,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,20,3,2026-04-03,0.0,Neutral,post
+Dior,LVMH,Fashion,luxury,20,14,2026-01-21,0.685,Positive,post
+Gucci,Competitor,Fashion,luxury,20,14,2026-01-21,0.685,Positive,post
+Chanel,Competitor,Fashion,luxury,20,14,2026-01-21,0.685,Positive,post
+Hermes,Competitor,Fashion,luxury,20,107,2026-04-13,0.4767,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,12,78,2026-01-31,0.8462,Positive,post
+Gucci,Competitor,Fashion,luxury,15,20,2025-10-03,-0.2124,Negative,post
+Dior,LVMH,Fashion,luxury,13,11,2026-04-01,0.0,Neutral,post
+Louis Vuitton,LVMH,Fashion,luxury,13,20,2026-01-15,0.9136,Positive,post
+Prada,Competitor,Fashion,luxury,11,13,2025-05-29,0.3291,Positive,post
+Chanel,Competitor,Fashion,luxury,10,38,2026-02-08,0.508,Positive,post
+Gucci,Competitor,Fashion,luxury,10,27,2025-12-03,-0.2368,Negative,post
+Chanel,Competitor,Fashion,luxury,10,27,2025-12-03,-0.2368,Negative,post
+Prada,Competitor,Fashion,luxury,10,27,2025-12-03,-0.2368,Negative,post
+Cartier,Competitor,Watches & Jewelry,luxury,9,6,2026-02-24,0.647,Positive,post
+Hermes,Competitor,Fashion,luxury,10,23,2025-12-19,0.3182,Positive,post
+Prada,Competitor,Fashion,luxury,10,3,2025-11-06,0.4574,Positive,post
+Gucci,Competitor,Fashion,luxury,8,6,2026-04-12,0.9042,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,9,2,2026-03-15,0.7845,Positive,post
+Gucci,Competitor,Fashion,luxury,10,6,2026-02-19,0.34,Positive,post
+Dior,LVMH,Fashion,luxury,7,15,2025-12-11,0.2263,Positive,post
+Chanel,Competitor,Fashion,luxury,9,0,2025-12-04,0.0,Neutral,post
+Chanel,Competitor,Fashion,luxury,9,17,2026-02-19,0.8516,Positive,post
+Hermes,Competitor,Fashion,luxury,9,17,2026-02-19,0.8516,Positive,post
+Gucci,Competitor,Fashion,luxury,10,0,2026-02-01,0.0772,Positive,post
+Gucci,Competitor,Fashion,luxury,8,0,2026-01-17,0.875,Positive,post
+Chanel,Competitor,Fashion,luxury,8,0,2026-01-17,0.875,Positive,post
+Hermes,Competitor,Fashion,luxury,8,0,2026-01-17,0.875,Positive,post
+Bulgari,LVMH,Watches & Jewelry,luxury,8,0,2025-05-24,0.0,Neutral,post
+Chanel,Competitor,Fashion,luxury,7,1,2026-04-03,0.8074,Positive,post
+Hermes,Competitor,Fashion,luxury,6,36,2026-03-19,-0.34,Negative,post
+Tiffany,LVMH,Fashion,luxury,7,29,2026-02-04,0.4329,Positive,post
+Dior,LVMH,Fashion,luxury,7,29,2026-02-04,0.4329,Positive,post
+Gucci,Competitor,Fashion,luxury,8,8,2025-09-29,0.85,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,5,19,2026-02-22,0.7938,Positive,post
+Hermes,Competitor,Fashion,luxury,5,19,2026-02-22,0.7938,Positive,post
+Dior,LVMH,Fashion,luxury,7,10,2025-11-30,-0.4767,Negative,post
+Gucci,Competitor,Fashion,luxury,6,5,2025-09-10,0.9244,Positive,post
+Chanel,Competitor,Fashion,luxury,6,5,2025-09-10,0.9244,Positive,post
+Hermes,Competitor,Fashion,luxury,6,5,2025-09-10,0.9244,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,7,2,2025-08-25,0.7964,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,5,1,2026-03-24,0.9118,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,luxury,5,1,2026-03-24,0.9118,Positive,post
+Chanel,Competitor,Fashion,luxury,5,0,2026-03-22,0.0,Neutral,post
+Prada,Competitor,Fashion,luxury,4,1,2026-02-12,-0.8205,Negative,post
+Rolex,Competitor,Watches & Jewelry,luxury,5,4,2026-01-26,0.9143,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,5,8,2025-12-01,0.9512,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,5,8,2025-12-01,0.9512,Positive,post
+Chanel,Competitor,Fashion,luxury,5,8,2025-12-01,0.9512,Positive,post
+Dior,LVMH,Fashion,luxury,6,2,2025-10-23,0.9163,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,6,2,2025-10-23,0.9163,Positive,post
+Chanel,Competitor,Fashion,luxury,6,2,2025-10-23,0.9163,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,7,0,2026-01-28,0.8294,Positive,comment
+Bulgari,LVMH,Watches & Jewelry,luxury,11,0,2026-01-28,0.9118,Positive,comment
+Gucci,Competitor,Fashion,luxury,4,0,2026-01-28,-0.1729,Negative,comment
+Prada,Competitor,Fashion,luxury,4,0,2026-01-28,-0.1729,Negative,comment
+Bottega Veneta,Competitor,Fashion,luxury,10,0,2026-01-28,0.6369,Positive,comment
+Hermes,Competitor,Fashion,luxury,3,0,2026-01-28,0.0,Neutral,comment
+Chanel,Competitor,Fashion,luxury,2,0,2026-01-28,-0.357,Negative,comment
+Prada,Competitor,Fashion,luxury,2,0,2026-01-28,-0.357,Negative,comment
+Prada,Competitor,Fashion,luxury,3,0,2026-04-06,0.4588,Positive,post
+Prada,Competitor,Fashion,luxury,4,0,2026-04-05,0.4019,Positive,post
+Dior,LVMH,Fashion,luxury,3,3,2026-03-31,-0.3903,Negative,post
+Gucci,Competitor,Fashion,luxury,3,2,2026-04-12,0.9266,Positive,post
+Dior,LVMH,Fashion,luxury,2,6,2026-04-19,-0.9001,Negative,post
+Chanel,Competitor,Fashion,luxury,2,6,2026-04-19,-0.9001,Negative,post
+Hermes,Competitor,Fashion,luxury,2,0,2026-04-16,0.4939,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,2,1,2026-04-14,0.8715,Positive,post
+Dior,LVMH,Fashion,luxury,2,3,2026-04-13,0.9405,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,2,0,2026-04-13,0.5574,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,luxury,2,0,2026-04-13,0.5574,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,2,0,2026-04-08,0.9294,Positive,post
+Chanel,Competitor,Fashion,luxury,2,0,2026-04-04,0.0,Neutral,post
+Bulgari,LVMH,Watches & Jewelry,luxury,2,0,2026-04-04,0.0,Neutral,post
+Louis Vuitton,LVMH,Fashion,luxury,2,0,2026-04-04,0.0,Neutral,post
+Gucci,Competitor,Fashion,luxury,3,41,2026-03-29,0.9081,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,1,1,2026-04-15,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,1,0,2026-04-11,0.2944,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,23,0,2026-04-01,0.7506,Positive,comment
+Bottega Veneta,Competitor,Fashion,luxury,14,0,2026-04-04,0.8622,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,3,0,2026-04-04,0.6579,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,55,0,2026-03-27,0.4567,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,8,0,2026-03-27,0.8221,Positive,comment
+Chanel,Competitor,Fashion,luxury,8,0,2026-03-27,0.8221,Positive,comment
+Hermes,Competitor,Fashion,luxury,8,0,2026-03-27,0.8221,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,2,0,2026-03-27,-0.1759,Negative,comment
+Rolex,Competitor,Watches & Jewelry,luxury,3,0,2026-03-27,-0.296,Negative,comment
+Rolex,Competitor,Watches & Jewelry,luxury,1,0,2026-03-31,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,1,0,2026-03-31,0.0,Neutral,post
+Louis Vuitton,LVMH,Fashion,luxury,1,1,2026-03-30,0.8299,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,0,4,2026-04-18,0.0,Neutral,post
+Cartier,Competitor,Watches & Jewelry,luxury,0,0,2026-04-01,0.34,Positive,post
+Gucci,Competitor,Fashion,luxury,0,17,2026-04-04,0.9289,Positive,post
+Chanel,Competitor,Fashion,luxury,0,17,2026-04-04,0.9289,Positive,post
+Hermes,Competitor,Fashion,luxury,0,17,2026-04-04,0.9289,Positive,post
+Prada,Competitor,Fashion,luxury,0,17,2026-04-04,0.9289,Positive,post
+Hermes,Competitor,Fashion,luxury,0,7,2026-03-25,0.8496,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,0,24,2026-04-01,0.4019,Positive,post
+Dior,LVMH,Fashion,luxury,0,24,2026-04-01,0.4019,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,838,32,2021-01-24,0.69,Positive,post
+Hermes,Competitor,Fashion,luxury,207,14,2020-07-31,0.0,Neutral,post
+Dior,LVMH,Fashion,luxury,148,2,2021-06-05,0.1027,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,143,33,2020-10-06,0.0,Neutral,post
+Tiffany,LVMH,Fashion,luxury,113,5,2021-03-12,0.0,Neutral,post
+Audemars Piguet,Competitor,Watches & Jewelry,luxury,100,15,2020-11-18,0.0,Neutral,post
+Cartier,Competitor,Watches & Jewelry,luxury,94,4,2019-12-20,0.0,Neutral,post
+Prada,Competitor,Fashion,luxury,87,1,2021-07-17,0.0,Neutral,post
+Chanel,Competitor,Fashion,luxury,73,88,2024-06-02,0.6608,Positive,post
+Patek Philippe,Competitor,Watches & Jewelry,luxury,62,2,2022-03-20,0.6808,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,58,3,2020-10-03,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,57,58,2020-05-19,-0.4609,Negative,post
+Audemars Piguet,Competitor,Watches & Jewelry,luxury,55,3,2021-09-05,0.0,Neutral,post
+Dior,LVMH,Fashion,luxury,51,0,2021-06-23,0.0,Neutral,post
+Fendi,LVMH,Fashion,luxury,51,0,2021-06-23,0.0,Neutral,post
+Cartier,Competitor,Watches & Jewelry,luxury,54,3,2020-10-16,0.69,Positive,post
+Gucci,Competitor,Fashion,luxury,49,3,2020-08-06,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,49,6,2019-11-26,0.2023,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,1,1,2026-04-23,0.4329,Positive,post
+Chanel,Competitor,Fashion,luxury,2,0,2026-04-23,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,2,0,2026-04-23,0.0,Neutral,post
+Chanel,Competitor,Fashion,luxury,3,0,2026-03-23,0.0,Neutral,post
+Chanel,Competitor,Fashion,luxury,3,1,2026-03-23,0.7964,Positive,post
+Hermes,Competitor,Fashion,luxury,3,1,2026-03-23,0.7964,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,3,6,2026-03-22,0.5789,Positive,post
+Chanel,Competitor,Fashion,luxury,3,0,2026-03-19,0.0,Neutral,post
+Dior,LVMH,Fashion,luxury,3,21,2026-03-18,0.9451,Positive,post
+Tiffany,LVMH,Fashion,luxury,0,20,2026-03-18,0.9344,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,0,20,2026-03-18,0.9344,Positive,post
+Tiffany,LVMH,Fashion,luxury,2,32,2026-03-16,0.9781,Positive,post
+Chanel,Competitor,Fashion,luxury,45,0,2026-03-19,0.0,Neutral,comment
+Chanel,Competitor,Fashion,luxury,8,0,2026-03-19,-0.3182,Negative,comment
+Rolex,Competitor,Watches & Jewelry,luxury,0,34,2026-03-14,0.8541,Positive,post
+Cartier,Competitor,Watches & Jewelry,luxury,0,34,2026-03-14,0.8541,Positive,post
+Chanel,Competitor,Fashion,luxury,2,3,2026-03-12,0.8418,Positive,post
+Louis Vuitton,LVMH,Fashion,luxury,0,11,2026-03-12,0.944,Positive,post
+Dior,LVMH,Fashion,luxury,0,11,2026-03-12,0.944,Positive,post
+Chanel,Competitor,Fashion,luxury,0,11,2026-03-12,0.944,Positive,post
+Gucci,Competitor,Fashion,luxury,2,36,2026-03-07,0.4404,Positive,post
+Rolex,Competitor,Watches & Jewelry,luxury,2,0,2026-03-06,0.9763,Positive,post
+Prada,Competitor,Fashion,luxury,5,0,2026-03-05,0.9799,Positive,post
+Gucci,Competitor,Fashion,luxury,0,0,2026-03-04,0.8433,Positive,post
+Dior,LVMH,Fashion,luxury,1,0,2026-03-04,0.0,Neutral,post
+Dior,LVMH,Fashion,luxury,1,0,2026-02-24,0.0,Neutral,post
+Hermes,Competitor,Fashion,luxury,44,0,2026-02-23,0.0,Neutral,comment
+Rolex,Competitor,Watches & Jewelry,luxury,38,0,2026-02-23,0.4588,Positive,comment
+Patek Philippe,Competitor,Watches & Jewelry,luxury,38,0,2026-02-23,0.4588,Positive,comment
+Hermes,Competitor,Fashion,luxury,38,0,2026-02-23,0.4588,Positive,comment
+Rolex,Competitor,Watches & Jewelry,luxury,2,0,2026-02-24,0.3832,Positive,comment
+Hermes,Competitor,Fashion,luxury,2,0,2026-02-24,0.3832,Positive,comment
+Hermes,Competitor,Fashion,luxury,1,0,2026-02-23,0.0,Neutral,comment
+Hermes,Competitor,Fashion,luxury,16,0,2026-03-09,0.0,Neutral,comment
+Chanel,Competitor,Fashion,luxury,4,0,2026-03-09,0.0,Neutral,comment
+Gucci,Competitor,Fashion,luxury,3,0,2026-03-09,-0.6486,Negative,comment
+Bottega Veneta,Competitor,Fashion,luxury,20,0,2026-04-12,0.6757,Positive,comment
+Gucci,Competitor,Fashion,luxury,6,0,2026-04-12,0.4265,Positive,comment
+Louis Vuitton,LVMH,Fashion,luxury,1,0,2026-04-13,0.8945,Positive,comment
+Prada,Competitor,Fashion,fashion,4205,917,2026-04-19,-0.2023,Negative,post
+Gucci,Competitor,Fashion,fashion,3564,523,2026-02-28,0.0,Neutral,post
+Bulgari,LVMH,Watches & Jewelry,fashion,1098,619,2025-04-27,0.7783,Positive,post
+Tiffany,LVMH,Fashion,fashion,11,0,2026-03-20,0.6478,Positive,comment
+Dior,LVMH,Fashion,fashion,185,48,2026-04-04,0.8925,Positive,post
+Dior,LVMH,Fashion,fashion,1592,33,2024-12-21,0.0,Neutral,post
+Dior,LVMH,Fashion,fashion,85,0,2023-06-13,0.5106,Positive,comment
+Chanel,Competitor,Fashion,fashion,12,0,2026-04-20,0.4574,Positive,comment
+Chanel,Competitor,Fashion,malefashionadvice,578,157,2025-12-07,0.4479,Positive,post
+Louis Vuitton,LVMH,Fashion,malefashionadvice,479,145,2025-05-19,0.8462,Positive,post
+Dior,LVMH,Fashion,malefashionadvice,479,145,2025-05-19,0.8462,Positive,post
+Gucci,Competitor,Fashion,malefashionadvice,479,145,2025-05-19,0.8462,Positive,post
+Gucci,Competitor,Fashion,malefashionadvice,159,104,2026-04-17,0.742,Positive,post
+Rolex,Competitor,Watches & Jewelry,malefashionadvice,59,0,2026-04-15,0.2407,Positive,comment
+Dior,LVMH,Fashion,malefashionadvice,24,57,2026-04-05,0.9498,Positive,post
+Gucci,Competitor,Fashion,malefashionadvice,24,57,2026-04-05,0.9498,Positive,post
+Dior,LVMH,Fashion,malefashionadvice,11,48,2026-04-21,0.8641,Positive,post
+Bottega Veneta,Competitor,Fashion,malefashionadvice,11,48,2026-04-21,0.8641,Positive,post
+Chanel,Competitor,Fashion,malefashionadvice,2946,217,2018-12-07,-0.7351,Negative,post
+Louis Vuitton,LVMH,Fashion,malefashionadvice,2570,107,2018-07-13,0.9337,Positive,post
+Bottega Veneta,Competitor,Fashion,malefashionadvice,1,1,2026-04-23,0.781,Positive,post
+Dior,LVMH,Fashion,malefashionadvice,0,9,2026-04-20,0.9133,Positive,post
+Gucci,Competitor,Fashion,malefashionadvice,58,0,2026-04-17,0.942,Positive,comment
+Gucci,Competitor,Fashion,malefashionadvice,45,0,2026-04-17,-0.7845,Negative,comment
+Gucci,Competitor,Fashion,malefashionadvice,40,0,2026-04-17,-0.2146,Negative,comment
+Gucci,Competitor,Fashion,malefashionadvice,33,0,2026-04-17,0.6395,Positive,comment
+Gucci,Competitor,Fashion,malefashionadvice,4,0,2026-04-17,0.6705,Positive,comment
+Prada,Competitor,Fashion,femalefashionadvice,514,33,2026-03-03,0.928,Positive,post
+Fendi,LVMH,Fashion,femalefashionadvice,273,145,2026-04-11,0.9097,Positive,post
+Fendi,LVMH,Fashion,femalefashionadvice,4,0,2025-07-23,0.6908,Positive,comment
+Cartier,Competitor,Watches & Jewelry,femalefashionadvice,120,98,2025-08-15,0.3378,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,11,0,2025-08-06,0.9385,Positive,comment
+Chanel,Competitor,Fashion,femalefashionadvice,74,39,2025-09-28,0.9487,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,0,46,2026-04-18,-0.8573,Negative,post
+Louis Vuitton,LVMH,Fashion,femalefashionadvice,4695,864,2023-02-26,0.8165,Positive,post
+Dior,LVMH,Fashion,femalefashionadvice,2728,220,2023-03-08,0.9456,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,2728,220,2023-03-08,0.9456,Positive,post
+Prada,Competitor,Fashion,femalefashionadvice,2728,220,2023-03-08,0.9456,Positive,post
+Bottega Veneta,Competitor,Fashion,femalefashionadvice,2728,220,2023-03-08,0.9456,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,2144,283,2020-01-18,0.8181,Positive,post
+Louis Vuitton,LVMH,Fashion,femalefashionadvice,1822,182,2019-07-02,0.6506,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,1822,182,2019-07-02,0.6506,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,49,0,2017-02-03,0.7351,Positive,comment
+Chanel,Competitor,Fashion,femalefashionadvice,1739,144,2018-10-01,0.9599,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,1634,296,2021-02-11,0.9092,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,1621,142,2021-11-17,0.969,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,1621,142,2021-11-17,0.969,Positive,post
+Hermes,Competitor,Fashion,femalefashionadvice,1621,142,2021-11-17,0.969,Positive,post
+Prada,Competitor,Fashion,femalefashionadvice,1621,142,2021-11-17,0.969,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,1595,305,2019-09-28,-0.3905,Negative,post
+Gucci,Competitor,Fashion,femalefashionadvice,1568,54,2020-05-27,0.214,Positive,post
+Chanel,Competitor,Fashion,femalefashionadvice,1568,54,2020-05-27,0.214,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,1572,180,2019-09-23,-0.4404,Negative,post
+Tiffany,LVMH,Fashion,femalefashionadvice,1443,549,2018-06-30,-0.2732,Negative,post
+Gucci,Competitor,Fashion,femalefashionadvice,1364,160,2019-07-28,0.9032,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,1353,84,2019-02-01,0.8313,Positive,post
+Hermes,Competitor,Fashion,femalefashionadvice,1353,84,2019-02-01,0.8313,Positive,post
+Dior,LVMH,Fashion,femalefashionadvice,522,0,2018-11-23,0.7901,Positive,comment
+Prada,Competitor,Fashion,femalefashionadvice,522,0,2018-11-23,0.7901,Positive,comment
+Prada,Competitor,Fashion,femalefashionadvice,36,0,2018-11-23,0.7868,Positive,comment
+Prada,Competitor,Fashion,femalefashionadvice,24,0,2018-11-23,-0.296,Negative,comment
+Gucci,Competitor,Fashion,femalefashionadvice,1292,151,2018-04-11,0.636,Positive,post
+Gucci,Competitor,Fashion,femalefashionadvice,1287,373,2020-03-22,-0.9226,Negative,post
+Prada,Competitor,Fashion,femalefashionadvice,1170,238,2023-04-10,0.3436,Positive,post
+Dior,LVMH,Fashion,femalefashionadvice,1174,145,2018-12-20,-0.5994,Negative,post
+Cartier,Competitor,Watches & Jewelry,Jewellery,5,0,2021-03-18,0.0,Neutral,post
+Gucci,Competitor,Fashion,Jewellery,4,2,2022-03-06,0.706,Positive,post
+Rolex,Competitor,Watches & Jewelry,Jewellery,1,0,2015-06-07,0.0,Neutral,post
+Tiffany,LVMH,Fashion,Jewellery,0,0,2015-03-16,0.9666,Positive,post
+Gucci,Competitor,Fashion,LuxuryLifeHabits,24,1,2026-02-17,-0.2732,Negative,post
+Audemars Piguet,Competitor,Watches & Jewelry,LuxuryLifeHabits,18,2,2026-01-20,0.0,Neutral,post
+Louis Vuitton,LVMH,Fashion,LuxuryLifeHabits,870,51,2020-12-07,0.25,Positive,post
+Gucci,Competitor,Fashion,LuxuryLifeHabits,10,0,2020-08-03,0.4939,Positive,comment
+Hermes,Competitor,Fashion,LuxuryLifeHabits,669,30,2020-09-12,0.0,Neutral,post
+Tiffany,LVMH,Fashion,LuxuryLifeHabits,481,28,2020-08-25,-0.4588,Negative,post
+Rolex,Competitor,Watches & Jewelry,LuxuryLifeHabits,335,23,2020-08-05,0.0,Neutral,post
+Gucci,Competitor,Fashion,LuxuryLifeHabits,327,4,2021-04-02,0.0,Neutral,post
+Chanel,Competitor,Fashion,LuxuryLifeHabits,10,0,2024-03-02,0.0,Neutral,post
+Rolex,Competitor,Watches & Jewelry,LuxuryLifeHabits,12,0,2024-02-18,0.6369,Positive,post
+Rolex,Competitor,Watches & Jewelry,LuxuryLifeHabits,42,1,2023-07-31,0.0,Neutral,post
